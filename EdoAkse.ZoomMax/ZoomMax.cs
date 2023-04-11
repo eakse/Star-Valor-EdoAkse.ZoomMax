@@ -33,6 +33,7 @@ namespace EdoAkse.ZoomMax
             // AdjustCamera
             ___maxZoomLevel = 7;
             // ZoomScale is the list of floats actually containing the zooms
+            // Needs to be one larger than the maxZoomLevel due to the Exploration skill Optics
             // it is used in the following methods:
             // SetupCamera
             // Update
@@ -48,7 +49,8 @@ namespace EdoAkse.ZoomMax
                 850f,
                 1000f,
                 1250f,
-                1600f
+                1600f,
+                2000f
             };
         }
     }
