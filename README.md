@@ -4,7 +4,8 @@ Simple extension of the zoom levels in the game Star Valor.
 
 It adds a couple of zoom levels above of the existing ones.
 
-**NOTE:** On the higher levels the names for entities disappear ☹️
+**NOTE:** On the higher levels the names for entities disappear ☹️  
+**NOTE2:** On the extra zoomlevels, there's a black square in the center of a sector. If/when I figure out what object that is, I'll move it...
 
 Installing Plugins
 ---
